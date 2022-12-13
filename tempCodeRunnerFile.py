@@ -1,0 +1,2 @@
+
+t.pencolor('magenta')
